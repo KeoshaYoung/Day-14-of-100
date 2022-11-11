@@ -24,3 +24,5 @@ Keep it simple for you. Don't expect the user to type in the words rock, paper, 
 Don't forget to restate the full question. player_1 ==. Just like you did in previous days when using logical conditions.
 
 Happy Coding!
+
+This project was fairly simple. I do like how each player can't see the other's input!
