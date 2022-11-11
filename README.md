@@ -25,3 +25,4 @@ Don't forget to restate the full question. player_1 ==. Just like you did in pre
 
 Happy Coding!
 
+This project was fairly simple. I do like how each player can't see the other's input!
